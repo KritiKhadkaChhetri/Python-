@@ -1,0 +1,1 @@
+#  The values entered later will be updated  in problem6.py if names of two friends are same
